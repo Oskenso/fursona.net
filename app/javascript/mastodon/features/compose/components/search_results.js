@@ -33,7 +33,7 @@ export default class SearchResults extends ImmutablePureComponent {
       count   += results.get('statuses').size;
       statuses = (
         <div className='search-results__section'>
-          <h5><i className='fa fa-fw fa-quote-right' /><FormattedMessage id='search_results.statuses' defaultMessage='Toots' /></h5>
+          <h5><i className='fa fa-fw fa-quote-right' /><FormattedMessage id='search_results.statuses' defaultMessage='Barks' /></h5>
 
           {results.get('statuses').map(statusId => <StatusContainer key={statusId} id={statusId} />)}
         </div>

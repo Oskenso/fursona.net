@@ -339,7 +339,7 @@
         "id": "status.filtered"
       },
       {
-        "defaultMessage": "Pinned toot",
+        "defaultMessage": "Pinned bark",
         "id": "status.pinned"
       },
       {
@@ -407,11 +407,11 @@
   {
     "descriptors": [
       {
-        "defaultMessage": "Toots",
+        "defaultMessage": "Barks",
         "id": "account.posts"
       },
       {
-        "defaultMessage": "Toots and replies",
+        "defaultMessage": "Barks and replies",
         "id": "account.posts_with_replies"
       },
       {
@@ -526,7 +526,7 @@
         "id": "account.show_reblogs"
       },
       {
-        "defaultMessage": "Pinned toots",
+        "defaultMessage": "Pinned barks",
         "id": "navigation_bar.pins"
       },
       {
@@ -574,7 +574,7 @@
         "id": "account.view_full_profile"
       },
       {
-        "defaultMessage": "Toots",
+        "defaultMessage": "Barks",
         "id": "account.posts"
       },
       {
@@ -675,7 +675,7 @@
         "id": "account.edit_profile"
       },
       {
-        "defaultMessage": "Pinned toots",
+        "defaultMessage": "Pinned barks",
         "id": "navigation_bar.pins"
       },
       {
@@ -724,7 +724,7 @@
         "id": "compose_form.spoiler_placeholder"
       },
       {
-        "defaultMessage": "Toot",
+        "defaultMessage": "Bark",
         "id": "compose_form.publish"
       },
       {
@@ -861,7 +861,7 @@
         "id": "search_results.accounts"
       },
       {
-        "defaultMessage": "Toots",
+        "defaultMessage": "Barks",
         "id": "search_results.statuses"
       },
       {
@@ -980,11 +980,11 @@
         "id": "compose_form.lock_disclaimer.lock"
       },
       {
-        "defaultMessage": "This toot won't be listed under any hashtag as it is unlisted. Only public toots can be searched by hashtag.",
+        "defaultMessage": "This bark won't be listed under any hashtag as it is unlisted. Only public barks can be searched by hashtag.",
         "id": "compose_form.hashtag_warning"
       },
       {
-        "defaultMessage": "This toot will only be sent to all the mentioned users.",
+        "defaultMessage": "This bark will only be sent to all the mentioned users.",
         "id": "compose_form.direct_message_warning"
       },
       {
@@ -1025,7 +1025,7 @@
         "id": "navigation_bar.logout"
       },
       {
-        "defaultMessage": "Compose new toot",
+        "defaultMessage": "Compose new bark",
         "id": "navigation_bar.compose"
       }
     ],
@@ -1068,7 +1068,7 @@
         "id": "column.favourites"
       },
       {
-        "defaultMessage": "You don't have any favourite toots yet. When you favourite one, it will show up here.",
+        "defaultMessage": "You don't have any favourite barks yet. When you favourite one, it will show up here.",
         "id": "empty_column.favourited_statuses"
       }
     ],
@@ -1077,7 +1077,7 @@
   {
     "descriptors": [
       {
-        "defaultMessage": "No one has favourited this toot yet. When someone does, they will show up here.",
+        "defaultMessage": "No one has favourited this bark yet. When someone does, they will show up here.",
         "id": "empty_column.favourites"
       }
     ],
@@ -1178,7 +1178,7 @@
         "id": "navigation_bar.mutes"
       },
       {
-        "defaultMessage": "Pinned toots",
+        "defaultMessage": "Pinned barks",
         "id": "navigation_bar.pins"
       },
       {
@@ -1350,7 +1350,7 @@
         "id": "keyboard_shortcuts.compose"
       },
       {
-        "defaultMessage": "to start a brand new toot",
+        "defaultMessage": "to start a brand new bark",
         "id": "keyboard_shortcuts.toot"
       },
       {
@@ -1394,7 +1394,7 @@
         "id": "keyboard_shortcuts.favourites"
       },
       {
-        "defaultMessage": "to open pinned toots list",
+        "defaultMessage": "to open pinned barks list",
         "id": "keyboard_shortcuts.pinned"
       },
       {
@@ -1606,7 +1606,7 @@
   {
     "descriptors": [
       {
-        "defaultMessage": "Pinned toot",
+        "defaultMessage": "Pinned bark",
         "id": "column.pins"
       }
     ],
@@ -1628,7 +1628,7 @@
   {
     "descriptors": [
       {
-        "defaultMessage": "No one has boosted this toot yet. When someone does, they will show up here.",
+        "defaultMessage": "No one has boosted this bark yet. When someone does, they will show up here.",
         "id": "status.reblogs.empty"
       }
     ],
@@ -1972,7 +1972,7 @@
         "id": "onboarding.page_six.various_app"
       },
       {
-        "defaultMessage": "Bon Appetoot!",
+        "defaultMessage": "Get ready to bark!",
         "id": "onboarding.page_six.appetoot"
       },
       {

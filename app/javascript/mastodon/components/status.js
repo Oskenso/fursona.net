@@ -194,7 +194,7 @@ export default class Status extends ImmutablePureComponent {
       prepend = (
         <div className='status__prepend'>
           <div className='status__prepend-icon-wrapper'><i className='fa fa-fw fa-thumb-tack status__prepend-icon' /></div>
-          <FormattedMessage id='status.pinned' defaultMessage='Pinned toot' />
+          <FormattedMessage id='status.pinned' defaultMessage='Pinned bark' />
         </div>
       );
     } else if (status.get('reblog', null) !== null && typeof status.get('reblog') === 'object') {
